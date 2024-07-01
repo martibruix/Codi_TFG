@@ -1,1 +1,3 @@
-# Codi_TFG
+# Anàlisi de xarxes per caracteritzar malalties neurodegeneratives
+
+Aquest repositori conté el codi desenvolupat durant la realització del Treball Final de Grau "Anàlisi de Xarxes per Caracteritzar Malalties Neurodegeneratives". Al fitxer analisi.ipynb es pot veure tot el procés del treball que s'ha anat fent, ordenat i classificat segons les diferents etapes: l'anàlisi inicial de les dades, la creació de les xarxes, la obtenció de les mètriques de graf i la creació de models d'aprenentatge automàtic. A la carpeta data es troben les dades amb les que s'ha treballat, tant la informació dels subjectes de l'estudi com les xarxes FA, GM i RS de cadascun d'ells. La carpeta metrics_values conté els valors de les diferents mètriques de graf que s'han calculat per cadascuna de les xarxes.
